@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "medico-pro",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a0516e38-08a1-4a1a-9db0-470bcf46aba5",
+			"database_name": "medico_pro"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
